@@ -1,2 +1,2 @@
 # Dev.Web
-Desenvolvimentos de ampliações Web
+Desenvolvimentos de amplicações Web
