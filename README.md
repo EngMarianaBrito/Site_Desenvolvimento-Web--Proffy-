@@ -1,6 +1,7 @@
 # Proffy_Plataformar para estudos,busque seu professor num preço acessível!
-
-https://raw.githubusercontent.com/marcusGoncalvess/nextLevelWeek2.0/master/github_assets/logo.png
+->Sobre o projeto:
+Proffy é um projeto em homenagem ao dia 06 de agosto que é o dia nacional do profissional de educação! 👨‍🏫
+Uma plataforma que conecta alunos com professores. 🎯
 
 ...Back-end...
 
