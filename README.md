@@ -1,4 +1,6 @@
-# Proffy_Plataformar para estudos,busque seu professor num preço acessível! 
+# Proffy_Plataformar para estudos,busque seu professor num preço acessível!
+
+https://raw.githubusercontent.com/marcusGoncalvess/nextLevelWeek2.0/master/github_assets/logo.png
 
 ...Back-end...
 
